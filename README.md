@@ -9,7 +9,7 @@ This project consists of a C program that counts the number of lines, words, and
 - [Requirements](#requirements)
 - [Files](#files)
 - [Usage](#usage)
-- [License](#license)
+
 
 ## Features
 
